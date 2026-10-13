@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":["Service","XdpOptions"],"type":["Finalizer"]};
+window.SIDEBAR_ITEMS = {"struct":["Service","ServicePorts","SessionMetricsCli","XdpOptions"],"type":["Finalizer"]};
